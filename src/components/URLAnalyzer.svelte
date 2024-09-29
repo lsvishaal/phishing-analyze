@@ -13,9 +13,9 @@
   }
 </script>
 
-<div class="min-h-screen bg-cyan-200 flex justify-center items-center p-4">
-  <div class="bg-white drop-shadow-xl p-8 rounded-lg w-full max-w-3xl">
-    <h2 class="text-2xl font-bold mb-6 text-center text-gray-800">URL Analyzer</h2>
+<div class="min-h-screen bg-cyan-400 flex justify-center items-center p-4">
+  <div class="bg-white dark:bg-red-100 drop-shadow-xl p-8 rounded-lg w-full max-w-3xl">
+    <h2 class="text-3xl font-bold mb-6 text-center tracking-tight text-red-500 ">URL Analyzer</h2>
 
     <!-- Input and Analyze Button -->
     <div class="flex items-center space-x-4 mb-6">
